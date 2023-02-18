@@ -1,13 +1,22 @@
 body {
   text-align: center;
-  background-color: #011F3F;
+  color : #20262E;
+  background-color: #E9E8E8;
+  
 }
+
+.dark-mode {
+  background-color: #20262E;
+  color: #E9E8E8;
+}
+
+
+
 
 #level-title {
   font-family: 'Press Start 2P', cursive;
   font-size: 3rem;
   margin:  5%;
-  color: #FEF2BF;
 }
 
 .container {
