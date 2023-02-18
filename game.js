@@ -15,6 +15,12 @@ $(document).keypress(function() {
   }
 });
 
+//  For Dark Mode
+
+$(".buttn").click(function(){
+  $("body").toggleClass("dark-mode");
+});
+
 
 $(".btn").click(function() {
 
